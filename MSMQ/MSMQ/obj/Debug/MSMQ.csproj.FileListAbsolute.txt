@@ -8,3 +8,6 @@ C:\Sample Sol\MSMQ\MSMQ\obj\Debug\MSMQ.pdb
 C:\Sample Sol\MSMQ\MSMQ\bin\Debug\Starbucks.Product.UpdateStatus.QueueService.Common.dll
 C:\Sample Sol\MSMQ\MSMQ\bin\Debug\Starbucks.Product.UpdateStatus.QueueService.Common.pdb
 C:\Sample Sol\MSMQ\MSMQ\obj\Debug\MSMQ.csproj.CopyComplete
+C:\GITSol\MSMQ\MSMQ\MSMQ\bin\Debug\MSMQ.exe.config
+C:\GITSol\MSMQ\MSMQ\MSMQ\obj\Debug\MSMQ.exe
+C:\GITSol\MSMQ\MSMQ\MSMQ\obj\Debug\MSMQ.pdb
